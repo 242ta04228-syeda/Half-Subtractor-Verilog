@@ -1,0 +1,19 @@
+Verilog simulation files
+
+*.vcd
+*.out
+
+Temporary files
+
+*.log
+*.tmp
+
+Editor files
+
+.vscode/
+.idea/
+
+Operating system files
+
+.DS_Store
+Thumbs.db
